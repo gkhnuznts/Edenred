@@ -1,0 +1,18 @@
+
+
+Üst menü Hemen başvurun kısmı düzeltilmeli
+
+Kart kullanıcıları menüsünde kullanılmayan bir mail ve 123456 şifresiyle giriş denediğimde
+
+JS alert durumu iyi anlatmıyor.
+
+Bunun yerine bu mail e ait hesap bulunamadı üye olun alert i vermesi daha mantıklı olacaktır.
+
+Şifremi unuttum alanından şifre değiştirme işlemine yönlendirmeli
+
+Anasayfada Rakamlarla Edenred alanından detaylı bilgi butonuna tıkladığımızda fransa domain e yönlendiriyor.
+
+Bu kullanıcı deneyimi açısından iyi değil .
+
+Tasarruf sağlayan finansal çözümlerimiz menüsünün kaydırmalı olmasına gerek yok hep 3 tane elementi gösteriyor.
+

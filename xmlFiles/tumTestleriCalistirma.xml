@@ -1,0 +1,30 @@
+
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Tum Classlar">
+
+
+    <test name="Main Page">
+
+        
+      <classes>
+
+
+
+          <class name="tests.Cookies"></class>
+          <class name="tests.MainPageTests"></class>
+          <class name="tests.MyEdenRedMobilAppErisim"></class>
+          <class name="tests.MainPageMyAccount"></class>
+
+          
+      </classes>
+
+
+
+    </test>
+
+
+
+</suite>
